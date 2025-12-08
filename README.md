@@ -47,16 +47,3 @@ We have processed the data into time sequences for both input types. Below are v
 1.  NVIDIA Speech Data Recognition Recruitment.
 2.  Audio Signal Classification Features.
 3.  *LEAN: Learning efficient audio networks*
-
----
-
-### 🔧 How to Run (Placeholder)
-```bash
-# Clone the repository
-git clone [https://github.com/yourusername/project-name.git](https://github.com/yourusername/project-name.git)
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run training
-python train.py --dataset_path /path/to/data
