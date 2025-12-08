@@ -32,11 +32,11 @@ The LEAN model is designed to process audio data using two distinct input types:
 We have processed the data into time sequences for both input types. Below are visual representations of the processed signals:
 
 #### Male Subject
-![Waveform and Logmel Spectrogram (Male)](images/male_wav_logmel.png)
+![Waveform and Logmel Spectrogram (Male)](male_wav_logmel.png)
 *Figure 1: Waveform and Logmel Spectrogram as Time Sequence (Male)*
 
 #### Female Subject
-![Waveform and Logmel Spectrogram (Female)](images/female_wav_logmel.png)
+![Waveform and Logmel Spectrogram (Female)](female_wav_logmel.png)
 *Figure 2: Waveform and Logmel Spectrogram as Time Sequence (Female)*
 
 ## 🧪 Experiments & Hypothesis
